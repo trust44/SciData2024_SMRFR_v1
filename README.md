@@ -2,8 +2,6 @@
 Paper code for "Global Multilayer Soil Moisture Dataset with Spatiotemporal Dynamic Insights Using Machine Learning Technique", submitted.
 
 ```
-Name: Yuhan Liu
-Institution: State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan, China
 Email: yuhanliu@whu.edu.cn
 ```
 ### Abstract
