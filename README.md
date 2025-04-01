@@ -1,5 +1,5 @@
 # SciData2024_SMRFR
-Paper code for "Global Multilayer Soil Moisture Dataset with Spatiotemporal Dynamic Insights Using Machine Learning Technique", submitted.
+Paper code for "SMRFR: global multilayer soil moisture dataset with spatiotemporal dynamic insights using machine learning", submitted.
 
 ```
 Email: yuhanliu@whu.edu.cn
