@@ -1,5 +1,5 @@
 # SciData2024_SMRFR
-Paper code for "SMRFR: A global multilayer soil moisture dataset using Random Forest with multi-source data", submitted.
+Paper code for "*SMRFR: A global multilayer soil moisture dataset using Random Forest with multi-source data*", submitted.
 
 ```
 Email: yuhanliu@whu.edu.cn
