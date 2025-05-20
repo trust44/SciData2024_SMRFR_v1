@@ -12,4 +12,5 @@ Machine learning based model to generate SMRFR, Conda environment can be created
 $ conda env create -f SMRFR_ml.yml
 ```
 python scripts in ipynb format to create Figures
+- Figure3.ipynb: Fig. 3
 - Figure8&FigureS4.ipynb: Fig. 8/Fig. S4
